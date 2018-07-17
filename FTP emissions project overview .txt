@@ -1,0 +1,42 @@
+“Motor Vehicle Emissions Variability” (J. of the Air and Waste Mgmt. Assoc., 1966: 667-675)
+
+
+HC (gm/mile)
+	13.8
+	18.3
+	32.2
+	32.5
+	CO (gm/mile)
+	118
+	149
+	232
+	236
+	        FTP result for one of 7 cars categorized as high emitters
+
+
+Background this data originated from the federal test procedure (FTP) is widely used in vehicle inspection programs. In general an interesting level of level of variation arises in performing emissions testing.
+
+
+Dependent Variables/ Questions:
+
+
+* Gasoline Type - chemical dynamics
+* Freshness of Gasoline
+* Miles Driven leading up to test within weeks and days
+* Miles driven all time
+* Engine State
+
+
+Tools used.
+Ask questions test them by studying the data make proposals to test to see if the data makes new trends. Or take action with the insights that we find example having cars under a certain make and model undergo more rigorous testing upon initial testing.
+
+
+Skills/Projects To be used:
+Basic Analytical Statistics 
+Python/Java Programming
+Regression Analysis
+Trees
+Experiment Design
+
+
+Article: “Motor Vehicle Emissions Variability” (J. of the Air and Waste Mgmt. Assoc., 1966: 667-675)
